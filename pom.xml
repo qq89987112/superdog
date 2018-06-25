@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <artifactId>superdog</artifactId>
+    <groupId>org.crg</groupId>
+    <modelVersion>4.0.0</modelVersion>
+    <version>0.0.1</version>
+
+
+</project>
